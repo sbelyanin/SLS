@@ -1,4 +1,4 @@
-package sls
+package github.com/sbelyanin/sls
 
 import (
 	"encoding/binary"
