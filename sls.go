@@ -3,7 +3,6 @@ package github.com/sbelyanin/sls
 import (
 	"encoding/binary"
 	"errors"
-	"fmt"
 	"os"
 )
 
